@@ -16,15 +16,15 @@ Pasting shit here isn't that appreciated, however, i frankly do not care. If you
 Its to prevent idiots from placing stealers in "trainers" to make profit, etc. It is also open source because i want more people to learn about this kind of stuff and make trainers for themselves. People think its hard, its not hard and its actually really simple! I hope people can learn from this project and make stuff themselves.
 
 ### What can i do with the code?
-##### You can:
-Modify it to your liking
-Modify the design or overall code of the trainer
-Release your modified version of it
+#### You can:
+###### Modify it to your liking
+###### Modify the design or overall code of the trainer
+###### Release your modified version of it
 
-##### You cannot:
-Make profit with it
-Remove all credits regarding the original creator
-Market Pandora as yours or copy this code and claim it is yours
-Use the code in stealers or bind Pandora to your stealers
-Add malware to your modifications of Pandora
+#### You cannot:
+###### Make profit with it
+###### Remove all credits regarding the original creator
+###### Market Pandora as yours or copy this code and claim it is yours
+###### Use the code in stealers or bind Pandora to your stealers
+###### Add malware to your modifications of Pandora
 
