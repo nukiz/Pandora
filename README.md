@@ -1,5 +1,6 @@
 # Pandora
 
+[![version](https://img.shields.io/badge/Developer-1.1.2-red.svg)](https://github.com/nukiz/Pandora/releases/latest)
 [![discord](https://img.shields.io/badge/Discord-Pandora-8080c0)](https://discord.gg/2AkbVqDAcT)
 
 # Information
